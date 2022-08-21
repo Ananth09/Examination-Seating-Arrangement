@@ -1,2 +1,4 @@
 # Examination-Seating-Arrangement
 Examination Seating arrangement mini project
+This project is developed for the college, to simplify examination hall allotment and seating arrangement manual work. This project allocates particular invigilator for particular hall. It is also very useful for the college where the software may generate the hall separation and concerned reports.
+The purpose of developing exam hall seating arrangement system is to computerize the traditional way of conducting exams and help the staff in allocating invgilators and students easily without any burden. This project also allocate particular invigilator for particular hall keeping in mind that the invigilator does not handle the smae subject as that of the examination being held. It is also very useful for the college where the software may generate the hall separation. Hence the hall is allocated to the students automatically based on their departments and register numbers

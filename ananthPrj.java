@@ -1,21 +1,14 @@
 import java.util.*;
 class seating_arrangement
 {
-    //String nm[]=new String[100];
-    //String add[]=new String[100];
     int i,t,f;
-    //String th[];
-    //String nm1[];
-    //String sb[];
     int[] id =new int[100];
     String[] date =new String[10];
     String[] day =new String[10];
     String sub[]=new String[10];
     String time[]=new String[10];
-   // String time2[]=new String[10];
     String[] dur =new String[10];
     String ex1[]=new String[5];
-
     String[] th1 =new String[10];
     String[] th2 =new String[10];
     String[] th3 =new String[10];
@@ -31,7 +24,6 @@ class seating_arrangement
     String ass1[]=new String[3];
     String ass2[]=new String[3];
     int x,d,k;
-    //String cn[]=new String[100];
     Scanner ob=new Scanner(System.in);
     seating_arrangement()
     {
